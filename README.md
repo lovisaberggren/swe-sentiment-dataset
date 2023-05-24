@@ -14,7 +14,7 @@ text  |  label  |  all_labels
 
 The data contains Twitter posts and YouTube comments. The paper below describes the creation of the dataset in more detail.
 
-## Citation information
+### Citation information
 
 If you use the dataset, please cite the following paper:
 
