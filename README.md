@@ -7,6 +7,7 @@ The data is organized in a `.csv` file as follows:
 text  |  label  |  all_labels
 ```
 
+- The sentiments are either positive, neutral or negative, denoted as `pos`, `neu` and `neg`.
 - The texts have been labeled by human annotators, where the majority label has been chosen as `label`. 
 - `all_labels` contains a list of all labels by the annotators.
 
